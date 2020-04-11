@@ -3,7 +3,7 @@
 	define('DEBUG', true);
 	
 	//Default root directory
-	define('PROOT', '/app_army');
+	define('PROOT', 'http://syndicatev.com');
 	//Deafult contrrlers
 	define('DEFAULT_CONTROLLER', 'Dashboard');
 	
