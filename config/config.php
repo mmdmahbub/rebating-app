@@ -11,7 +11,7 @@
 	define('DEFAULT_LAYOUT', 'default');
 	
 	//Defaukt site title
-	define('SITE_TITLE', 'Welcome to the Bangladesh Army');
+	define('SITE_TITLE', 'Syndicatev App');
 	define('DB_HOST', 'localhost');
 	define('DB_USER', 'root');
 	define('DB_PASS', '');
